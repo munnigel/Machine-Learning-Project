@@ -345,21 +345,21 @@ prix O
 
 Enfin O
 la O
-masterpiece O
-: I-negative
-le I-positive
-riz I-negative
-au B-positive
-lait B-negative
-vanille O
+masterpiece B-neutral
+: B-positive
+le I-neutral
+riz B-positive
+au I-neutral
+lait B-positive
+vanille B-positive
 sauce B-positive
 caramel I-negative
-beurre B-positive
-salé B-positive
-( I-neutral
+beurre I-neutral
+salé B-neutral
+( B-positive
 divin B-positive
-) I-neutral
-. B-negative
+) I-negative
+. O
 
 Personnel B-negative
 hyper O
