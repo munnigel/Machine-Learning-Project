@@ -343,22 +343,22 @@ qualité O
 prix O
 . O
 
-Enfin B-positive
-la B-positive
-masterpiece I-positive
-: B-positive
-le I-negative
-riz I-neutral
+Enfin O
+la O
+masterpiece O
+: I-negative
+le I-positive
+riz I-negative
 au B-positive
-lait I-negative
-vanille I-neutral
-sauce I-positive
+lait B-negative
+vanille O
+sauce B-positive
 caramel I-negative
-beurre B-negative
-salé B-neutral
-( I-positive
-divin I-positive
-) B-negative
+beurre B-positive
+salé B-positive
+( I-neutral
+divin B-positive
+) I-neutral
 . B-negative
 
 Personnel B-negative
