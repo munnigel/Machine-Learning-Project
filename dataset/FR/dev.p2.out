@@ -349,17 +349,17 @@ masterpiece B-positive
 : O
 le O
 riz B-negative
-au I-negative
+au B-neutral
 lait B-neutral
-vanille I-neutral
-sauce I-negative
-caramel B-neutral
-beurre I-positive
+vanille I-positive
+sauce O
+caramel O
+beurre B-negative
 salé B-positive
-( B-neutral
-divin O
-) I-neutral
-. I-neutral
+( O
+divin I-neutral
+) B-neutral
+. I-negative
 
 Personnel B-negative
 hyper O
