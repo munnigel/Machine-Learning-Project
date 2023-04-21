@@ -351,15 +351,15 @@ le O
 riz B-negative
 au I-negative
 lait O
-vanille O
+vanille I-positive
 sauce I-negative
-caramel O
-beurre B-positive
-salé I-positive
-( I-negative
-divin O
-) B-neutral
-. B-negative
+caramel I-positive
+beurre B-neutral
+salé I-negative
+( I-neutral
+divin B-positive
+) I-positive
+. O
 
 Personnel B-negative
 hyper O

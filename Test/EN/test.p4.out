@@ -16,7 +16,7 @@ in B-PP
 the B-NP
 hurling I-VP
 . O
-Woo B-VP
+Woo B-INTJ
 !!! O
 
 I B-NP
@@ -31,7 +31,7 @@ It B-NP
 November B-NP
 and O
 almost B-NP
-Thanksgiving B-INTJ
+Thanksgiving B-VP
 ... O
 so B-ADJP
 you B-NP
@@ -181,7 +181,7 @@ yeah I-INTJ
 when B-ADVP
 i B-NP
 got B-VP
-caught I-VP
+caught B-VP
 up B-PRT
 a B-NP
 year I-NP
@@ -189,7 +189,7 @@ ago B-ADVP
 ... O
 you B-NP
 can B-VP
-prolly B-VP
+prolly B-NP
 stay B-VP
 with B-PP
 us B-NP
@@ -205,7 +205,7 @@ out B-PRT
 , O
 you B-NP
 cn B-VP
-prolly B-VP
+prolly B-NP
 
 @elbirth O
 haha B-INTJ
@@ -287,7 +287,7 @@ will B-VP
 air I-NP
 in B-PP
 the B-NP
-UK B-NP
+UK B-PRT
 on B-PP
 October B-NP
 18 B-NP
@@ -318,9 +318,9 @@ Louis I-NP
 : O
 APR I-NP
 Chocolate I-NP
-Toy I-NP
+Toy B-ADJP
 Poodle I-NP
-Pups B-VP
+Pups I-NP
 - O
 $300 B-NP
 ( O
@@ -365,7 +365,7 @@ we B-NP
 were B-VP
 covered I-NP
 in B-PP
-ice B-NP
+ice B-INTJ
 all B-NP
 day I-NP
 Friday I-NP
@@ -469,7 +469,7 @@ instead B-CONJP
 of B-PP
 just B-ADVP
 my B-NP
-films I-NP
+films I-VP
 and O
 production I-NP
 company I-NP
@@ -513,7 +513,7 @@ week I-NP
 'll B-VP
 compete B-VP
 with B-PP
-sum I-VP
+sum I-NP
 hawt B-VP
 dude B-NP
 2 I-NP
@@ -536,7 +536,7 @@ when B-ADVP
 males B-VP
 text I-NP
 " O
-K O
+K B-PP
 " O
 or O
 cross B-VP
@@ -578,7 +578,7 @@ past I-NP
 when B-ADVP
 the B-NP
 drugs B-NP
-began B-NP
+began I-ADVP
 to B-PP
 take B-VP
 hold B-VP
@@ -665,7 +665,7 @@ Kaufman B-NP
 ?: O
 ... O
 the B-NP
-bizarre I-ADJP
+bizarre I-NP
 events I-NP
 leading B-VP
 up B-PRT
@@ -681,7 +681,7 @@ http://bit.ly/aUZ2on O
 
 Time I-NP
 Warner B-ADJP
-Cable I-NP
+Cable B-NP
 Boycotting I-NP
 Epix B-NP
 Movie I-NP
@@ -821,7 +821,7 @@ said B-VP
 that B-NP
 last B-NP
 week I-NP
-Ash I-NP
+Ash B-VP
 . O
 I B-NP
 think B-VP
@@ -1034,7 +1034,7 @@ there B-NP
 *puss B-VP
 in B-PP
 boots I-NP
-eyes* B-NP
+eyes* I-NP
 
 Pretty B-VP
 disappointed I-NP
@@ -1108,7 +1108,7 @@ i B-NP
 will B-VP
 
 THE B-NP
-BONG I-NP
+BONG O
 WENT B-VP
 5-O B-NP
 LAST B-NP
@@ -1222,7 +1222,7 @@ November B-NP
 6 B-NP
 ( O
 : O
-THANKYOU B-INTJ
+THANKYOU B-VP
 http://twitition.com/oxm5g O
 @MariaMdn O
 
@@ -1264,7 +1264,7 @@ oh B-INTJ
 nice B-ADJP
 , O
 im B-NP
-sdill I-NP
+sdill B-VP
 at B-PP
 work B-NP
 =( B-INTJ
@@ -1295,14 +1295,14 @@ meeting B-VP
 tomorrow B-NP
 . O
 : O
-S O
+S B-PP
 
 @The_Messiah113 O
 177 B-NP
 people B-NP
 ! O
 : O
-0 O
+0 B-PP
 lol B-INTJ
 a B-NP
 week I-NP
@@ -1344,7 +1344,7 @@ preparation I-NP
 took B-VP
 all B-NP
 day I-NP
-". I-NP
+". O
 
 Volleyball B-NP
 player I-NP
@@ -1445,7 +1445,7 @@ bath I-NP
 shut I-NP
 up B-PRT
 , O
-sam B-VP
+sam B-NP
 's B-VP
 coming B-VP
 tomorrow B-NP
@@ -1457,7 +1457,7 @@ will B-VP
 be I-VP
 round B-PP
 at B-PP
-10am B-NP
+10am O
 so B-ADJP
 go I-VP
 away B-ADVP
@@ -1498,7 +1498,7 @@ I B-NP
 'm B-VP
 stressed I-NP
 at B-PP
-9am O
+9am B-INTJ
 , O
 shopping I-NP
 on B-PP
@@ -1561,7 +1561,7 @@ early B-SBAR
 
 gonna I-VP
 watch B-VP
-500 I-NP
+500 B-NP
 days I-NP
 of B-PP
 summer I-NP
@@ -1571,7 +1571,7 @@ call B-VP
 it B-NP
 a B-NP
 night I-NP
-:\ O
+:\ B-INTJ
 
 DAVID I-VP
 MARIL I-NP
@@ -1596,7 +1596,7 @@ why B-ADVP
 when B-ADVP
 we B-NP
 purchase B-NP
-cable I-NP
+cable B-NP
 and O
 sa I-NP
 ... O
@@ -1608,7 +1608,7 @@ RT O
 the B-NP
 cast O
 of B-PP
-Glee I-NP
+Glee B-VP
 doing B-VP
 " O
 Bills I-NP
