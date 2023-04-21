@@ -70,7 +70,7 @@ nous O
 rabattre O
 sur O
 un O
-burger B-positive
+burger B-negative
 et O
 un O
 fish O
@@ -80,7 +80,7 @@ chips B-negative
 erreur O
 fatale O
 : O
-burger B-positive
+burger B-negative
 moyen O
 , O
 frites B-negative
@@ -112,7 +112,7 @@ impression O
 d'inachevé O
 . O
 
-Temps B-negative
+Temps O
 d'attente O
 trop O
 long O
@@ -166,7 +166,7 @@ ne O
 manquait O
 que O
 la O
-fameuse O
+fameuse B-negative
 boite O
 de O
 bonbons O
@@ -259,7 +259,7 @@ dessus O
 , O
 ce O
 qui O
-atténuait O
+atténuait B-negative
 l'acidité O
 du O
 concentré O
@@ -293,8 +293,8 @@ est O
 nickel O
 . O
 
-Attente O
-démesurée O
+Attente B-negative
+démesurée B-negative
 , O
 le O
 vin O
@@ -328,7 +328,7 @@ A O
 ! O
 ! O
 
-Desserts B-negative
+Desserts O
 originaux O
 et O
 légers O
@@ -514,9 +514,9 @@ A O
 la O
 place O
 une O
-espèce O
+espèce B-negative
 de O
-confit O
+confit I-positive
 de O
 tomates O
 au O
@@ -640,7 +640,7 @@ correct O
 
 TOUTES O
 LES O
-VIANDES O
+VIANDES B-negative
 SONT O
 SANS O
 GOUT O
@@ -704,8 +704,8 @@ l O
 ' O
 échine O
 de O
-cochon O
-confite O
+cochon I-positive
+confite I-positive
 avec O
 ses O
 gnocchis O
@@ -825,7 +825,7 @@ Dessert O
 mousse O
 aux O
 2 O
-chocolats O
+chocolats I-negative
 , O
 bonne O
 mais O
@@ -988,7 +988,7 @@ cidre B-positive
 ) O
 . O
 
-Patron B-negative
+Patron O
 gentil O
 mais O
 débordé O
@@ -1186,7 +1186,7 @@ bon O
 déjeuner O
 . O
 
-Service B-positive
+Service B-negative
 agréable O
 qui O
 plus O
@@ -1223,7 +1223,7 @@ en O
 coin O
 ) O
 
-Service B-positive
+Service B-negative
 très O
 agréable O
 sur O
@@ -1300,7 +1300,7 @@ et O
 bons O
 ! O
 
-Service B-positive
+Service B-negative
 quasiment O
 inexistant O
 . O
@@ -1325,7 +1325,7 @@ de O
 l'orangina O
 ... O
 
-Menu B-positive
+Menu O
 du O
 jour O
 
@@ -1435,7 +1435,7 @@ conciliante O
 . O
 
 Nous O
-cessons O
+cessons B-negative
 immédiatement O
 le O
 repas O
@@ -1464,7 +1464,7 @@ et O
 pas O
 une O
 viande B-negative
-limousine O
+limousine I-negative
 ! O
 ! O
 
@@ -1945,7 +1945,7 @@ vue O
 sur O
 la O
 Tour O
-Eiffel O
+Eiffel I-positive
 c O
 est O
 certain O
@@ -1999,7 +1999,7 @@ le O
 couvercle O
 de O
 mon O
-burger B-positive
+burger B-negative
 pour O
 vérifier O
 et O
@@ -2011,7 +2011,7 @@ feuilles O
 de O
 salade O
 toutes O
-flétries O
+flétries B-positive
 pour O
 ne O
 pas O
@@ -2037,7 +2037,7 @@ pizzas B-positive
 succulentes O
 , O
 des O
-brushettas O
+brushettas B-positive
 , O
 et O
 une O
@@ -2054,7 +2054,7 @@ fruit O
 correct O
 . O
 
-Service B-positive
+Service B-negative
 tres O
 long O
 et O
@@ -2194,7 +2194,7 @@ obligent O
 ) O
 . O
 
-Attente O
+Attente B-negative
 interminable O
 ! O
 
@@ -2307,7 +2307,7 @@ bonne O
 surprise O
 ! O
 
-Service B-positive
+Service B-negative
 attentif O
 et O
 sympathique O
@@ -2465,13 +2465,13 @@ magique O
 . O
 
 Le O
-confit O
+confit I-positive
 ne O
 ressemble O
 pas O
 à O
 un O
-confit O
+confit I-positive
 ( O
 ça O
 ressemble O
@@ -2835,12 +2835,12 @@ sympa O
 ça O
 s O
 ' O
-annonçait O
+annonçait I-positive
 plutôt O
 bien O
 ... O
 
-Patron B-negative
+Patron O
 venu O
 nous O
 voir O
@@ -3002,7 +3002,7 @@ gras O
 
 Nous O
 avons O
-vécu O
+vécu I-negative
 une O
 expérience O
 culinaire O
@@ -3358,13 +3358,13 @@ détour O
 , O
 pour O
 un O
-cassoulet B-positive
+cassoulet O
 top O
 et O
 généreux O
 . O
 
-Vin B-negative
+Vin O
 au O
 verre O
 ( O
@@ -3684,7 +3684,7 @@ très O
 vite O
 ? O
 
-Menus B-negative
+Menus B-neutral
 à O
 prix O
 raisonables O
