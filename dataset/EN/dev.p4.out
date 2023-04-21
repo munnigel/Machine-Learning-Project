@@ -1,5 +1,5 @@
 NO B-NP
-Saints I-NP
+Saints B-VP
 R B-VP
 . O
 Buch B-ADVP
@@ -127,7 +127,7 @@ U.K. I-NP
 Offering I-VP
 HTC B-NP
 Desire I-NP
-Z O
+Z B-NP
 Unlocked B-VP
 October B-NP
 11 I-NP
@@ -141,10 +141,10 @@ of B-PP
 the B-NP
 HTC B-NP
 Desire I-NP
-Z O
+Z B-NP
 earlier B-NP
 in B-PP
-Lo I-NP
+Lo B-NP
 ... O
 http://bit.ly/bsyz9H O
 
@@ -288,7 +288,7 @@ to B-PP
 deal I-VP
 wit B-PP
 their B-NP
-bullshit I-NP
+bullshit B-ADJP
 !! O
 Fukk I-NP
 outta B-PP
@@ -339,7 +339,7 @@ friday I-NP
 http://is.gd/ffDb9 O
 
 I B-NP
-kept B-VP
+kept B-NP
 telling I-VP
 niggers I-NP
 it'd B-NP
@@ -465,7 +465,7 @@ because B-SBAR
 religion I-NP
 is B-VP
 so B-ADJP
-mar B-ADJP
+mar I-NP
 ... O
 http://bit.ly/cBvt1u O
 
@@ -563,7 +563,7 @@ when B-ADVP
 you B-NP
 all B-NP
 were B-VP
-thiiis B-NP
+thiiis B-ADVP
 big I-NP
 , O
 you B-NP
@@ -638,12 +638,12 @@ EVER B-ADVP
 A B-NP
 TRUE B-ADJP
 friend I-NP
-walks I-VP
+walks I-NP
 in B-PP
 when B-ADVP
 everybody B-NP
 else B-SBAR
-walks I-VP
+walks I-NP
 out B-PRT
 ! O
 
@@ -652,11 +652,11 @@ lineup O
 for B-PP
 tonight B-NP
 . O
-Keppinger I-NP
+Keppinger B-VP
 sits I-NP
 , O
 Downs I-NP
-plays I-VP
+plays I-NP
 2B I-NP
 , O
 CJ B-VP
@@ -730,7 +730,7 @@ chair B-INTJ
 Just B-ADVP
 belched I-NP
 . O
-Loudly I-NP
+Loudly B-VP
 . O
 +1 O
 
@@ -776,7 +776,7 @@ missed B-VP
 the B-NP
 chance I-NP
 when B-ADVP
-theycame B-NP
+theycame O
 to B-PP
 the B-NP
 uk B-NP
@@ -891,7 +891,7 @@ know B-VP
 where B-ADVP
 to B-PP
 get B-VP
-cheap I-ADVP
+cheap B-VP
 brooms B-VP
 ? O
 #Ryerson I-NP
@@ -1084,7 +1084,7 @@ honesty B-ADVP
 and O
 morals B-NP
 are B-VP
-non O
+non B-NP
 existent B-NP
 these B-NP
 days I-NP
@@ -1187,7 +1187,7 @@ http://bit.ly/hLAnXp O
 Rock I-NP
 to B-PP
 SECTION B-VP
-204 B-NP
+204 O
 tonight B-NP
 !!!! O
 
@@ -1346,7 +1346,7 @@ but O
 managed B-VP
 a B-NP
 30 I-NP
-min B-NP
+min I-NP
 run I-VP
 and O
 plenty B-INTJ
@@ -1376,12 +1376,12 @@ weeks I-NP
 Empire B-NP
 State I-NP
 Building B-VP
-= O
+= B-NP
 ESB B-ADVP
 . O
 Pretty B-VP
 bad I-NP
-storm B-NP
+storm I-NP
 here B-ADVP
 last B-NP
 evening I-NP
@@ -1439,7 +1439,7 @@ time I-NP
 ive B-NP
 been I-VP
 to B-PP
-13 I-NP
+13 B-NP
 30stm I-NP
 concerts I-NP
 now B-ADVP
@@ -1496,7 +1496,7 @@ I B-NP
 've B-VP
 been I-VP
 having I-VP
-soup B-NP
+soup I-NP
 all B-NP
 week I-NP
 , O

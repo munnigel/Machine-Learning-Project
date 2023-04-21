@@ -825,7 +825,7 @@ Dessert O
 mousse O
 aux O
 2 O
-chocolats I-negative
+chocolats O
 , O
 bonne O
 mais O
@@ -1492,7 +1492,7 @@ carte O
 à O
 revoir O
 en O
-profondeur O
+profondeur B-negative
 . O
 
 Cela O
@@ -1994,7 +1994,7 @@ honte O
 ! O
 
 J'ai O
-soulevé O
+soulevé B-negative
 le O
 couvercle O
 de O
@@ -2308,7 +2308,7 @@ surprise O
 ! O
 
 Service B-negative
-attentif O
+attentif B-negative
 et O
 sympathique O
 . O

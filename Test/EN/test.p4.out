@@ -16,7 +16,7 @@ in B-PP
 the B-NP
 hurling I-VP
 . O
-Woo B-VP
+Woo B-INTJ
 !!! O
 
 I B-NP
@@ -99,7 +99,7 @@ Haha B-INTJ
 I B-NP
 seen I-VP
 a B-NP
-ped B-NP
+ped I-NP
 egg B-NP
 called B-VP
 a B-NP
@@ -181,7 +181,7 @@ yeah I-INTJ
 when B-ADVP
 i B-NP
 got B-VP
-caught I-VP
+caught B-VP
 up B-PRT
 a B-NP
 year I-NP
@@ -298,7 +298,7 @@ hey B-INTJ
 snoop B-NP
 my B-NP
 wife I-NP
-Cath I-NP
+Cath O
 is B-VP
 30 I-NP
 today B-NP
@@ -318,7 +318,7 @@ Louis I-NP
 : O
 APR I-NP
 Chocolate I-NP
-Toy I-NP
+Toy B-ADJP
 Poodle I-NP
 Pups B-VP
 - O
@@ -365,7 +365,7 @@ we B-NP
 were B-VP
 covered I-NP
 in B-PP
-ice B-NP
+ice B-VP
 all B-NP
 day I-NP
 Friday I-NP
@@ -536,7 +536,7 @@ when B-ADVP
 males B-VP
 text I-NP
 " O
-K O
+K B-NP
 " O
 or O
 cross B-VP
@@ -578,7 +578,7 @@ past I-NP
 when B-ADVP
 the B-NP
 drugs B-NP
-began B-NP
+began I-VP
 to B-PP
 take B-VP
 hold B-VP
@@ -680,8 +680,8 @@ could B-VP
 http://bit.ly/aUZ2on O
 
 Time I-NP
-Warner B-ADJP
-Cable I-NP
+Warner I-ADJP
+Cable B-NP
 Boycotting I-NP
 Epix B-NP
 Movie I-NP
@@ -714,10 +714,10 @@ Steps I-NP
 Back B-ADVP
 will B-VP
 be I-VP
-playing B-VP
+playing I-NP
 at B-PP
 Ugly B-VP
-Mug B-NP
+Mug B-PRT
 Live I-VP
 on B-PP
 08 I-NP
@@ -784,7 +784,7 @@ broski B-PP
 .. O
 fuck B-VP
 wit B-PP
-me..Parlae B-NP
+me..Parlae I-NP
 's B-VP
 in B-PP
 house I-NP
@@ -807,7 +807,7 @@ CALI'S B-VP
 BDAY B-NP
 BASH I-NP
 FOR B-PP
-PISCES/ARIES B-ADVP
+PISCES/ARIES B-INTJ
 DAY I-NP
 1 B-NP
 ( O
@@ -821,7 +821,7 @@ said B-VP
 that B-NP
 last B-NP
 week I-NP
-Ash I-NP
+Ash B-VP
 . O
 I B-NP
 think B-VP
@@ -835,7 +835,7 @@ program I-VP
 
 Korean B-NP
 War B-NP
-spy B-ADJP
+spy I-NP
 rivalries I-NP
 persist B-VP
 60 B-NP
@@ -870,7 +870,7 @@ had B-VP
 a B-NP
 dog B-NP
 for B-PP
-14 I-NP
+14 B-NP
 years I-NP
 and O
 it B-NP
@@ -912,7 +912,7 @@ strike B-ADJP
 has B-VP
 fans I-NP
 of B-PP
-Calcio B-NP
+Calcio I-NP
 worried I-NP
 .... O
 
@@ -944,7 +944,7 @@ LIL I-NP
 WAYNE B-NP
 / I-NP
 NICKI B-NP
-MINAJ I-NP
+MINAJ B-NP
 - O
 March I-NP
 30 I-NP
@@ -963,7 +963,7 @@ RT O
 Will B-VP
 government B-VP
 or O
-markets B-NP
+markets B-VP
 finance I-NP
 sustainability B-ADJP
 ? O
@@ -1125,7 +1125,7 @@ she B-NP
 wo B-VP
 n't I-VP
 believe B-VP
-mee B-NP
+mee I-NP
 &lt; O
 3 I-INTJ
 
@@ -1142,16 +1142,16 @@ me B-NP
 a B-NP
 lot I-NP
 of B-PP
-Envy B-NP
+Envy B-PRT
 and O
 CSTVT I-NP
 but O
-w/o B-VP
+w/o I-NP
 the B-NP
 hardcore B-VP
 elements B-VP
 . O
-Super I-NP
+Super I-VP
 good I-NP
 and O
 free B-ADJP
@@ -1264,7 +1264,7 @@ oh B-INTJ
 nice B-ADJP
 , O
 im B-NP
-sdill I-NP
+sdill B-VP
 at B-PP
 work B-NP
 =( B-INTJ
@@ -1295,14 +1295,14 @@ meeting B-VP
 tomorrow B-NP
 . O
 : O
-S O
+S B-NP
 
 @The_Messiah113 O
 177 B-NP
 people B-NP
 ! O
 : O
-0 O
+0 B-NP
 lol B-INTJ
 a B-NP
 week I-NP
@@ -1344,7 +1344,7 @@ preparation I-NP
 took B-VP
 all B-NP
 day I-NP
-". I-NP
+". O
 
 Volleyball B-NP
 player I-NP
@@ -1358,7 +1358,7 @@ Matt I-NP
 Brooker B-VP
 named B-VP
 Cedarville B-SBAR
-SUBWAY I-VP
+SUBWAY I-NP
 Athetes I-NP
 of B-PP
 the B-NP
@@ -1457,7 +1457,7 @@ will B-VP
 be I-VP
 round B-PP
 at B-PP
-10am B-NP
+10am O
 so B-ADJP
 go I-VP
 away B-ADVP
@@ -1498,7 +1498,7 @@ I B-NP
 'm B-VP
 stressed I-NP
 at B-PP
-9am O
+9am B-INTJ
 , O
 shopping I-NP
 on B-PP
@@ -1571,7 +1571,7 @@ call B-VP
 it B-NP
 a B-NP
 night I-NP
-:\ O
+:\ B-INTJ
 
 DAVID I-VP
 MARIL I-NP
@@ -1596,7 +1596,7 @@ why B-ADVP
 when B-ADVP
 we B-NP
 purchase B-NP
-cable I-NP
+cable B-NP
 and O
 sa I-NP
 ... O
@@ -1608,7 +1608,7 @@ RT O
 the B-NP
 cast O
 of B-PP
-Glee I-NP
+Glee B-VP
 doing B-VP
 " O
 Bills I-NP
